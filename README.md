@@ -8,11 +8,11 @@ This project recognizes basic rock-paper-scissors gestures based on a monocular 
 
 
 
-## Tasklist
+## Task List
 
 - [x] Call the external camera through unity3D and get the camera screen
 
-- [x] implement a program to recognize rock-paper-scissors gestures
+- [x] Implement a program to recognize rock-paper-scissors gestures
 
 - [x] Realize the  interaction between Instantly captured image data and the program above
 
@@ -39,7 +39,7 @@ This project recognizes basic rock-paper-scissors gestures based on a monocular 
 
 ## Contributing
 
-@zhfffy
+@[zhfffy](https://github.com/zhfffy)
 
 
 
