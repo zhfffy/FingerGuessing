@@ -37,6 +37,12 @@ This project recognizes basic rock-paper-scissors gestures based on a monocular 
 
 
 
+## SAMPLE
+
+![sample](https://s2.loli.net/2022/06/03/ksx3hC4NbRG6K8I.png)
+
+
+
 ## Contributing
 
 @[zhfffy](https://github.com/zhfffy)
